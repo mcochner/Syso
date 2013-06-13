@@ -6,7 +6,6 @@ System programming in C on UNIX platform. Some examples of the weekly homeworks 
 
 Programs:
 1. chatserver.c ... chat server. Final project
-2. showip.c     ... simple program to print IP address of a known host
-3. lazysig.c    ... catching signals, 3x catch and then end the program.
+2. lazysig.c    ... simple demo for catching signals, 3x catch and then end the program.
 
 All programs are working under Linux Ubuntu 12.04. 
